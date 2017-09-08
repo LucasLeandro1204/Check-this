@@ -1,0 +1,24 @@
+{
+  "name": "check-this",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/check.js",
+  "devDependencies": {
+    "backpack-core": "^0.4.2"
+  },
+  "scripts": {
+    "dev": "backpack",
+    "build": "backpack build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasLeandro1204/Check-this.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LucasLeandro1204/Check-this/issues"
+  },
+  "homepage": "https://github.com/LucasLeandro1204/Check-this#readme"
+}
