@@ -2,6 +2,10 @@ class AbstractRule {
   constructor () {
   }
 
+  get name () {
+    throw new Error('This function must be overwrite');
+  }
+
   static run (args) {
     throw new Error('This function must be overwrite');
   }
